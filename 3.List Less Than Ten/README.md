@@ -28,7 +28,7 @@ Numbers less than 10 are: 1, 1, 2, 3, 5, 8.
 ```
 
 
-Bonus 1:
+Bonus:
 ```bash
 Enter a number: 15
 Numbers less than 10 are: [1, 1, 2, 3, 5, 8, 13]
