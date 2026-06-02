@@ -1,2 +1,4 @@
-# practice-python-solutions
-here i solve some problems from www.practicepython.org
+# Practice Python Solutions
+Welcome to my repositroy where i solve some problems from [www.practicepython.org](www.practicepython.org).
+
+
