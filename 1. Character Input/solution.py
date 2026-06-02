@@ -1,0 +1,1 @@
+print(input("Enter your name: "),"will turn 100 years old in the year",(int(input("Enter current year: ")))-(int(input("Enter your age: ")))+100)
